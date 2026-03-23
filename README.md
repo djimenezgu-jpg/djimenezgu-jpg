@@ -1,4 +1,4 @@
-<img width="160" height="160" alt="image" src="https://github.com/user-attachments/assets/8291cc92-ec36-4106-baf6-909c1a21dd2c" /><h1 align="center">¡Hola! 👋 Soy Diego Jimenez 😊 </h1>
+<h1 align="center">¡Hola! 👋 Soy Diego Jimenez 😊 </h1>
 
 <p align="center">
   💻 Me gusta la programacion y la tecnologia. <br>
@@ -33,6 +33,3 @@
   <img src="https://img.shields.io/badge/🇬🇧 Inglés-B2-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🇩🇪 Alemán-A2.2-black?style=for-the-badge"/>
 </p>
-
-- 📍 Colombia
-- 💼 LinkedIn: (pon tu link)
